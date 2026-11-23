@@ -1,0 +1,2 @@
+# Solo per il modello vero (--modello claude). Il modello simulato non richiede nulla.
+anthropic
