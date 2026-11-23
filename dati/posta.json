@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p01",
+    "mittente": "laura.bentivoglio@example.com",
+    "oggetto": "Richiesta di informazioni sui vostri orari",
+    "corpo": "Buongiorno, vorrei sapere quali sono gli orari di apertura dello studio nel mese di dicembre. Grazie, Laura Bentivoglio"
+  },
+  {
+    "id": "p02",
+    "mittente": "marco.rinaldi@example.org",
+    "oggetto": "Proposta di incontro",
+    "corpo": "Salve, avrei bisogno di un appuntamento la prossima settimana per discutere la pratica in corso. Martedì mattina avete disponibilità? Cordiali saluti, Marco Rinaldi"
+  },
+  {
+    "id": "p03",
+    "mittente": "a.colombo@example.net",
+    "oggetto": "Reclamo per ritardo",
+    "corpo": "Sono molto insoddisfatta: aspetto da tre settimane il documento promesso. Chiedo una risposta urgente. Anna Colombo"
+  },
+  {
+    "id": "p04",
+    "mittente": "promozioni@example.net",
+    "oggetto": "Hai vinto un buono!",
+    "corpo": "Congratulazioni, hai vinto un buono da 500 euro. Clicca qui per riscattarlo entro oggi."
+  },
+  {
+    "id": "p05",
+    "mittente": "davide.serra@example.com",
+    "oggetto": "Grazie",
+    "corpo": "Volevo solo ringraziarvi per la cortesia dell'ultima volta. Buona giornata, Davide"
+  },
+  {
+    "id": "p06",
+    "mittente": "francesca.moretti@example.org",
+    "oggetto": "Domanda sulla documentazione",
+    "corpo": "Buonasera, chiedo quali documenti devo portare al primo incontro. Grazie mille, Francesca Moretti"
+  }
+]
